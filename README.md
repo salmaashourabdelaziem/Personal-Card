@@ -3,7 +3,7 @@
 A responsive personal profile card built using **HTML5** and **CSS3**. The project showcases a clean and modern user interface with a soft gradient background, profile image, hover animations, and social media icons.
 
 ## 🚀 Live Demo
-[https://your-github-username.github.io/Profile-Card/](https://salmaashourabdelaziem.github.io/Personal-Card/)
+https://salmaashourabdelaziem.github.io/Personal-Card/
 
 ## 📋 Features
 
