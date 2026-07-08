@@ -74,4 +74,4 @@ This project strengthened my understanding of HTML structure, CSS styling, Flexb
 
 Frontend Developer passionate about creating responsive and interactive web applications.
 
-**GitHub:** [https://github.com/salmaashourabdelaziem-debug](https://github.com/salmaashourabdelaziem-debug)
+**GitHub:** https://github.com/salmaashourabdelaziem-debug
